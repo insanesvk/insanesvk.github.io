@@ -19,7 +19,7 @@ cover: "/assets/images/sam-ferrara-270946.jpg"
 name: 'Jakub Homoly'
 author: 'Jakub Homoly'
 author_image: "/assets/images/author.jpg"
-author_bio: "foo bar baz!"
+author_bio: "Software developer. Writing about frontend, backend and API related things."
 
 paginate:	5
 
