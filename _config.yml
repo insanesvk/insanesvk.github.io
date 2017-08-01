@@ -6,7 +6,7 @@ gems:
 # Site settings
 title: "Jakub Homoly"
 description: > # this means to ignore newlines until "email:"
-   Software developer, Co-Founder at @LimeDeck. You'll find a mish-mash of frontend, backend and API related articles here.
+   Software developer, Co-Founder of LimeDeck. You'll find a mish-mash of frontend, backend and API related articles here.
 
 email: jakubhomoly@gmail.com
 #blog logo
@@ -29,7 +29,7 @@ baseurl: ""
 twitter_handle: '@insane141'
 
 #fill in disqus shortname to use disqus
-#disqus: disqus-shortname
+disqus: blog-homoly-me
 
 #google_analytics: UA-XXXXX-X
 
