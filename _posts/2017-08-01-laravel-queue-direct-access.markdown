@@ -2,8 +2,8 @@
 layout: post
 title:  "Direct access to Laravel's Queue"
 date:   2017-08-01 09:12:25
-categories: feature
-tags: laravel queue
+categories: laravel
+tags: laravel queue json serialize
 ---
 Imagine that you're not using Laravel's queue exclusively in Laravel, but you have workers deployed for certain tasks in another programming language.
 
