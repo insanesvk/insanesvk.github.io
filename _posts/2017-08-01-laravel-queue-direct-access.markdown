@@ -67,4 +67,4 @@ And that's pretty much it! You'll be left with a lovely, non-serialized JSON whi
 
 I hope this article was useful. If you have any questions or comments, please post them down below. Thanks!
 
-Thanks [HR](https://twitter.com/hrenael) for your peer-review!
+Thank you [HR](https://twitter.com/hrenael) for your peer-review!
