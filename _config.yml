@@ -32,7 +32,7 @@ twitter_handle: '@insane141'
 #fill in disqus shortname to use disqus
 disqus: blog-homoly-me
 
-#google_analytics: UA-XXXXX-X
+google_analytics: UA-103843354-1
 
 # social icons and sharing options
 social:
