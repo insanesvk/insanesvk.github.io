@@ -5,6 +5,9 @@ gems:
   - jekyll-seo-tag
   - jekyll-twitter-plugin
 
+plugins:
+  - jekyll-twitter-plugin
+
 # Site settings
 title: "Jakub Homoly"
 description: > # this means to ignore newlines until "email:"
