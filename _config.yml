@@ -3,6 +3,7 @@ gems:
   - jemoji
   - jekyll-paginate
   - jekyll-seo-tag
+  - jekyll-twitter-plugin
 
 # Site settings
 title: "Jakub Homoly"
@@ -28,6 +29,7 @@ url: "https://blog.homoly.me" # the base hostname & protocol for your site
 baseurl: ""
 #used to display twitter cards
 twitter_handle: '@insane141'
+plugins: ['jekyll-twitter-plugin']
 
 #fill in disqus shortname to use disqus
 disqus: blog-homoly-me
@@ -56,7 +58,6 @@ social:
     share_url:
     share_title:
     share_link:
-
 #  - icon:	google-plus
 #    url:	https://google.com/???
 #    desc:	Add me on google+
