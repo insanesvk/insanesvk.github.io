@@ -5,6 +5,8 @@ date:   2017-11-29 09:12:25
 categories: security
 tags: security macos jekyll
 ---
+**UPDATE 30/11/2017**: Apple has released a security update that patches the vulnerability mentioned in this article.
+
 I was browsing Twitter this morning, when I came across something rather interesting. Then, just a couple minutes afterwards, I got an automated message from GitHub warning me about a security hole right here, on the blog.
 
 These two (albeit super random occurrences) got me to finally write another blog. This is not at all an advanced security bulletin, just a heads up for everyone
